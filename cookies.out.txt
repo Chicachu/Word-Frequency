@@ -1,0 +1,10 @@
+
+Frequency counts: 
+cook: 4 
+cookies: 2 
+could: 2 
+a: 2 
+good: 2 
+how: 1 
+many: 1 
+if: 1 
